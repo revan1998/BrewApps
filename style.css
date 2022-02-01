@@ -1,0 +1,110 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family:"Robotto","sans-serif";
+    text-decoration: none;
+    
+
+}
+.navabr{
+    height: 100vh;
+    width: 100%;
+    
+}
+.heading{
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.img{
+    display: flex;
+   margin-left: 25px;
+   
+
+}
+.img p{
+    margin-top: 5px;
+}
+
+.img img{
+    height: 30px;
+}
+.lists{
+    margin-top: 10px;
+}
+.lists ul li{
+    
+    display:inline ;
+}
+.lists ul li img{
+    height: 20px;
+}
+.lists ul{
+    margin-left: 0;
+    margin-top: 30px;
+}
+.lists ul li a{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 30px;
+    color: black;
+    
+    
+}
+
+.lists ul li :hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+.headbar{
+    
+    margin-top: 50px;
+    margin-left: 30px;
+    display: flex;
+       
+}
+
+.contents{
+    background-color: black;
+    border-radius: 8px;
+
+   
+}
+
+
+.images img{
+    width: 400px;
+    height: 200px;
+    border-top-left-radius:8px ;
+    border-top-right-radius: 8px;
+        
+}
+.contents p{
+    color: white;
+    padding: 5px;
+}
+.bar{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.id{
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.sm-id{
+    font-size: 10px;
+    margin-bottom: 5px;
+    margin-left: 8px;
+}
+
+.head-bar{
+    padding:5px ;
+    align-items: center;
+
+}
